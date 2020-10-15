@@ -1,2 +1,2 @@
 # React-App
-Working navbar with burger menu made in react
+React site to be deployed with AWS - WIP
