@@ -1,5 +1,5 @@
 .NavbarItems {
-    background: linear-gradient(90deg, rgb(110, 94, 254) 0%, rgb(73, 63, 252) 100%);
+    background: linear-gradient(90deg, rgb(47, 47, 182) 0%, rgb(47, 47, 182) 100%);
     height: 80px;
     display: flex;
     justify-content: center;
@@ -17,6 +17,7 @@
 .fa-user-astronaut{
     margin-left: 0.5rem;
     font-size: 1.6rem;
+    opacity: 100;
 }
 
 .nav-menu {
