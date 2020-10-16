@@ -6,6 +6,12 @@ export const MenuItems = [
         
     },
     {
+        title: 'Resume',
+        url: '#',
+        cName: 'nav-links'
+        
+    },
+    {
         title: 'Projects',
         url: '#',
         cName: 'nav-links'

@@ -1,15 +1,16 @@
 import React from 'react';
 import Navbar from "./components/Navbar/Navbar";
+import Canvas from "./components/Canvas/Canvas";
 import './App.css';
-import Particlehere from "./components/Particlehere/Particlehere";
 
-function App() {
-  return (
-    <div className="App">
-      <Navbar />
-      <Particlehere />
-    </div>
-  );
-}
 
-export default App;
+function App() { 
+  return ( 
+    <div className="App"> 
+    <Navbar />
+    <Canvas />
+    </div> 
+  ); 
+} 
+   
+export default App; 
