@@ -1,25 +1,25 @@
 export const MenuItems = [
     {
         title: 'Home',
-        url: 'https://google.com',
+        url: '/',
         cName: 'nav-links'
         
     },
     {
         title: 'Resume',
-        url: '#',
+        url: '/resume',
         cName: 'nav-links'
         
     },
     {
         title: 'Projects',
-        url: '#',
+        url: '/projects',
         cName: 'nav-links'
         
     },
     {
         title: 'Contact',
-        url: '#',
+        url: '/contact',
         cName: 'nav-links'
         
     },
