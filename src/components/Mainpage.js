@@ -2,11 +2,11 @@ import React, { Component } from 'react'
 
 class Mainpage extends Component {
     render() {
-        return (
-            <div>
-                <h1>Mainpage</h1>
-            </div>
-        )
+      return(
+        
+          <h1></h1>
+      )
     }
-}
-export default Mainpage
+  }
+  
+  export default Mainpage;

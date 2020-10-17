@@ -13,7 +13,7 @@ class Navbar extends Component {
 	render() {
 		return(
 			<nav className="NavbarItems"> 
-				<h1 className="navbar-logo"><i className="fas fa-user-astronaut"></i></h1>
+				<img className="mylogo"src="https://i.ibb.co/GsbJfr2/logo.png" />
 				<div className="menu-icon" onClick={this.handleClick}>
 					<i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}></i>
 				</div>

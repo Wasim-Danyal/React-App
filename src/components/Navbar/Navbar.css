@@ -18,10 +18,12 @@
     cursor: pointer;
 }
 
-.fa-user-astronaut{
+.mylogo{
     margin-left: 0.5rem;
-    font-size: 1.6rem;
     opacity: 100;
+    width: 70px;
+    margin-left: 50px;
+    cursor: pointer;
 }
 
 .nav-menu {
@@ -118,5 +120,6 @@
          transform: translate(-100%, 60%);
          font-size: 1.8rem;
          cursor: pointer;
+         color: #fff
      }
 }
