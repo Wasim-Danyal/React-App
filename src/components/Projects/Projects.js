@@ -8,9 +8,9 @@ export default function Projects() {
     <Card style={{ width: "18rem" }}>
       <Card.Img variant="top" src="" />
       <Card.Body>
-        <Card.Title>DevOps Project</Card.Title>
+        <Card.Title>Example 1</Card.Title>
         <Card.Text>
-        Group project to deploy an application made with Angular on to AWS with Terraform to deploy IAAC, containerised and deployed using K8s & Docker Compose
+          Example card 1 
         </Card.Text>
         <Button variant="primary">Github</Button>
       </Card.Body>
@@ -19,9 +19,9 @@ export default function Projects() {
     <Card style={{ width: "18rem" }}>
       <Card.Img variant="top" src="" />
       <Card.Body>
-        <Card.Title>Travel Roulette</Card.Title>
+        <Card.Title>Example 2</Card.Title>
         <Card.Text>
-          Travel Destination generation made with flask, deployed on GCP using technologies for CI such as Docker + Swarm, Ansible, NGINX
+          Example 2
         </Card.Text>
         <Button variant="primary">Github</Button>
       </Card.Body>
@@ -30,9 +30,9 @@ export default function Projects() {
     <Card style={{ width: "18rem" }}>
       <Card.Img variant="top" src="" />
       <Card.Body>
-        <Card.Title>CRUD App - Currency Converter</Card.Title>
+        <Card.Title>Third test</Card.Title>
         <Card.Text>
-        Currency Converter application with CRUD features made with flask deployed on GCP with technologies such as Gunicorn & Jenkins.
+          Card test 3
         </Card.Text>
         <Button variant="primary">Github</Button>
       </Card.Body>
